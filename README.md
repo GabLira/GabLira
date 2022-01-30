@@ -1,4 +1,4 @@
-<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 <img src="https://c.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Welcome icon" title="Welcome" align="center" width="28px"></h1>
+<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃! <img src="https://c.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Welcome icon" title="Welcome" align="center" width="28px"></h1>
 <p align="center"> 
   <em>Hi, I'm Gabriel, a Venezuelan Junior Frontend Developer, I love the art of programming, so I'm always learning new things, I practice doing projects on my own, I have fun solving problems and I'm always looking for new things to do.</em>
 </p>
@@ -8,10 +8,10 @@
 ### **About me in code**
 ```js
 const GabLira = {
-  pronouns: 'he' | 'his',
-  languages: 'english' && 'spanish',
-  developer: 'Junior Frontend',
-  ide: 'WebStorm',
+  pronouns: ['he', 'his', 'developer', 'coderBoy'],
+  languages: ['english', 'spanish'],
+  skills: ['organized', 'disciplined', 'creative', 'enthusiastic'],
+  methodoly: 'BEM'
 };
 ```
 
