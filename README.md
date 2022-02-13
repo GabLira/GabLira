@@ -27,12 +27,13 @@ const GabLira = {
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-shadow-tal-revivo.png"
     alt="Sass icon" title="Sass" width="50px">
     <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript icon" title="JavaScript" width="50px">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-json-javascript-object-notation-is-a-lightweight-data-interchange-format-logo-color-tal-revivo.png" alt="JSON icon" title="JSON" width="50px">
     <img src="https://img.icons8.com/color/344/react-native.png" alt="React icon" title="React" width="50px">
   </section>
 
   <hr>
 
-###  Tools I currently use
+###  **Tools I currently use**
 
   <section align="left">
     <img src="https://img.icons8.com/color/344/webstorm.png" alt="WebStorm icon" title="WebStorm" width="50px" >
@@ -43,6 +44,8 @@ const GabLira = {
 </main>
 
 <hr>
+
+### I'm learning currently this languages
 
 <footer>
   <img src="https://github-readme-stats.vercel.app/api?username=GabLira" alt="Stats icon" title="Stats Languages" align="left">
